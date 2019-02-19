@@ -1,0 +1,4 @@
+args:
+  epoch: 1
+  batch_size: 256
+invoke: sample.train
